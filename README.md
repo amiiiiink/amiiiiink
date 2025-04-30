@@ -4,6 +4,11 @@ I'm a dedicated Laravel developer with a focus on clean architecture, scalable s
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiiiiink&show_icons=true&count_private=true&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiiiiink&layout=compact)
+
+
+
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME)
