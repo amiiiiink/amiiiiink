@@ -3,9 +3,10 @@
 I'm a dedicated Laravel developer with a focus on clean architecture, scalable solutions, and continuous learning in modern web development.
 
 ---
-
+<!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiiiiink&show_icons=true&count_private=true&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiiiiink&layout=compact)
+-->
 
 
 
